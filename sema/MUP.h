@@ -1,6 +1,8 @@
 #pragma once
-hello
+hELlo
 
 
 checking
 (проверка)
+
+are you kiding me?
